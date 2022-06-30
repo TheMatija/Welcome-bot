@@ -39,4 +39,4 @@ client.on("messageCreate", (message) => {
 })
 
 
-client.login("OTkyMTMxOTAzMDY5MDk0MDQ4.GcqBJH.QgOoIOVFLU5pjzVCWQ_nZC6oGHyip2hnx_D1Ag") 
+client.login("YOU DISCORD BOT TOKKEN") 
